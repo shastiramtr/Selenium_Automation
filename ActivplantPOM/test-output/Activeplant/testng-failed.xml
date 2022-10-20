@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Activeplant]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name=" Check User Role Testcase (failed)">
+    <classes>
+      <class name="testcase.TestUserRole">
+        <methods>
+          <include name="launchBrowser"/>
+          <include name="verifyLogin"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- testcase.TestUserRole -->
+    </classes>
+  </test> <!--  Check User Role Testcase (failed) -->
+</suite> <!-- Failed suite [Activeplant] -->

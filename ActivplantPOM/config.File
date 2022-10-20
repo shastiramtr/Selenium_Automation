@@ -1,0 +1,5 @@
+username = Administrator
+password = qwerty
+url = http://dga1app18actdv.swg.cdc.root/activplant_new/default.aspx
+browser = Edge 
+driverlocation = C:\\Users\\GIS00221\\eclipse-workspace\\Activplant\\Edge driver\\msedgedriver.exe

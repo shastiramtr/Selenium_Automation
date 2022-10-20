@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-11T13:25:37 IST" name="Default suite" finished-at="2022-10-11T13:28:45 IST" duration-ms="188541">
+    <groups>
+    </groups>
+    <test started-at="2022-10-11T13:25:37 IST" name="Default test" finished-at="2022-10-11T13:28:45 IST" duration-ms="188541">
+      <class name="testcase.TestUserRole">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:testcase.TestUserRole@70e8f8e]" started-at="2022-10-11T13:25:37 IST" name="launchBrowser" finished-at="2022-10-11T13:25:37 IST" duration-ms="32" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method is-config="true" signature="MIAdmin()[pri:0, instance:testcase.TestUserRole@70e8f8e]" started-at="2022-10-11T13:25:37 IST" name="MIAdmin" finished-at="2022-10-11T13:26:42 IST" duration-ms="65253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MIAdmin -->
+        <test-method signature="MILogin()[pri:0, instance:testcase.TestUserRole@70e8f8e]" started-at="2022-10-11T13:26:42 IST" name="MILogin" finished-at="2022-10-11T13:26:44 IST" duration-ms="2196" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MILogin -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcase.TestUserRole@70e8f8e]" started-at="2022-10-11T13:26:44 IST" name="tearDown" finished-at="2022-10-11T13:26:44 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="MIAdmin()[pri:0, instance:testcase.TestUserRole@70e8f8e]" started-at="2022-10-11T13:26:44 IST" name="MIAdmin" finished-at="2022-10-11T13:27:20 IST" duration-ms="35703" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MIAdmin -->
+        <test-method signature="ManualDataEntry()[pri:0, instance:testcase.TestUserRole@70e8f8e]" started-at="2022-10-11T13:27:20 IST" name="ManualDataEntry" finished-at="2022-10-11T13:27:24 IST" duration-ms="4099" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ManualDataEntry -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcase.TestUserRole@70e8f8e]" started-at="2022-10-11T13:27:24 IST" name="tearDown" finished-at="2022-10-11T13:27:24 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="MIAdmin()[pri:0, instance:testcase.TestUserRole@70e8f8e]" started-at="2022-10-11T13:27:24 IST" name="MIAdmin" finished-at="2022-10-11T13:28:08 IST" duration-ms="43668" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MIAdmin -->
+        <test-method signature="ReportViewer()[pri:0, instance:testcase.TestUserRole@70e8f8e]" started-at="2022-10-11T13:28:08 IST" name="ReportViewer" finished-at="2022-10-11T13:28:12 IST" duration-ms="4063" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReportViewer -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcase.TestUserRole@70e8f8e]" started-at="2022-10-11T13:28:12 IST" name="tearDown" finished-at="2022-10-11T13:28:12 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="MIAdmin()[pri:0, instance:testcase.TestUserRole@70e8f8e]" started-at="2022-10-11T13:28:12 IST" name="MIAdmin" finished-at="2022-10-11T13:28:43 IST" duration-ms="31136" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MIAdmin -->
+        <test-method signature="RootCase()[pri:0, instance:testcase.TestUserRole@70e8f8e]" started-at="2022-10-11T13:28:43 IST" name="RootCase" finished-at="2022-10-11T13:28:45 IST" duration-ms="2249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RootCase -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testcase.TestUserRole@70e8f8e]" started-at="2022-10-11T13:28:45 IST" name="tearDown" finished-at="2022-10-11T13:28:45 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcase.TestUserRole -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
